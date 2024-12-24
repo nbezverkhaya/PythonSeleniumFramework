@@ -1,0 +1,10 @@
+CONFTEST FILE
+@pytest.fixture(scope="class")
+def setup():
+    .............
+
+TEST_FILE
+@pytest.mark.usefixtures("setup")
+class TestOne:
+    def test_e2e(self):
+        .............
