@@ -69,7 +69,7 @@ To run a specific test, use the following command:
 ```bash
 pytest -k 'test_formSubmission'
 ```
-Folder Structure
+## Folder Structure
 Here is a brief overview of the project structure:
 ```bash
 .
@@ -109,8 +109,8 @@ Here is a brief overview of the project structure:
 
 ```
 
-**Contributing**  
+## Contributing  
 Feel free to open issues or create pull requests if you'd like to contribute to this project.
 
-**License**  
+## License 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
