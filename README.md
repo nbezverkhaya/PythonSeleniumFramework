@@ -113,4 +113,4 @@ Here is a brief overview of the project structure:
 Feel free to open issues or create pull requests if you'd like to contribute to this project.
 
 ## License 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [License](LICENSE.txt) file for details.
