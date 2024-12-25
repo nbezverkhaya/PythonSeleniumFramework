@@ -23,7 +23,7 @@ class TestHomePage(BaseClass):
         time.sleep(3)
         self.driver.refresh()
 
-    @pytest.fixture(params=HomePageData.getTestData("Testcase3")
+    @pytest.fixture(params=HomePageData.getTestData("Testcase3"))
     def getData(self, request):
         return request.param
 

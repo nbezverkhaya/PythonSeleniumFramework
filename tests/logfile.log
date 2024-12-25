@@ -1,0 +1,21 @@
+2024-12-25 17:31:32,680 :INFO : test_formSubmission :first name is Paco
+2024-12-25 17:33:09,096 :INFO : test_e2e :getting all the shop item names
+2024-12-25 17:33:11,133 :INFO : test_e2e :Item name: iphone X
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-12-25 17:33:11,186 :INFO : test_e2e :Item name: Samsung Note 8
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-12-25 17:33:11,218 :INFO : test_e2e :Item name: Nokia Edge
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-12-25 17:33:11,245 :INFO : test_e2e :Item name: Blackberry
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-12-25 17:33:13,435 :INFO : test_e2e :Entering country name as ind
+2024-12-25 17:33:19,427 :INFO : test_e2e :text received from alert ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
