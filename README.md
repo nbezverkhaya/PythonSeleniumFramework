@@ -71,6 +71,12 @@ bash
 pytest -k 'test_formSubmission'
 Replace test_formSubmission with the name of the test you want to execute.
 
+**Contributing**  
+Feel free to open issues or create pull requests if you'd like to contribute to this project.
+
+**License**  
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 Folder Structure
 Here is a brief overview of the project structure:
 
@@ -108,10 +114,3 @@ Here is a brief overview of the project structure:
 ├── .gitignore                       # Git ignore file
 ├── mynotes.txt                      # Notes file
 └── README.md                        # Project documentation
-
-
-**Contributing**  
-Feel free to open issues or create pull requests if you'd like to contribute to this project.
-
-**License**  
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
