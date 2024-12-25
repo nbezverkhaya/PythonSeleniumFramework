@@ -74,8 +74,6 @@ Replace test_formSubmission with the name of the test you want to execute.
 Folder Structure
 Here is a brief overview of the project structure:
 
-python
-Copy code
 .
 ├── .venv/                          # Virtual environment directory
 │   ├── bin/                         # Executables
