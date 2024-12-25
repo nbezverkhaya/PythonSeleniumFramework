@@ -109,10 +109,8 @@ Here is a brief overview of the project structure:
 ├── mynotes.txt                      # Notes file
 └── README.md                        # Project documentation
 
-**Contributing**
-
+**Contributing**  
 Feel free to open issues or create pull requests if you'd like to contribute to this project.
 
-**License**
-
+**License**  
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
